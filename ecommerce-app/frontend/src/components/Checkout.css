@@ -1,0 +1,28 @@
+.checkout-page {
+    text-align: center;
+    padding: 50px;
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.checkout-page p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.checkout-page button {
+    padding: 12px 24px;
+    background: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.checkout-page button:hover {
+    background: #219150;
+}
